@@ -1,6 +1,18 @@
 main {
     max-width: 840px;
 }
+main img {
+    width: 15px;
+    height: auto;
+}
+nav a {
+    color: white;
+    padding: 10px;
+    display: block;
+}
+h1 {
+    color: steelblue;
+}
 aside {
     width: 20rem;
     margin: 1rem;
@@ -12,10 +24,6 @@ aside {
 }
 aside img {
     width: 200px;
-    height: auto;
-}
-main img {
-    width: 15px;
     height: auto;
 }
 p { padding: 0;}
