@@ -2,8 +2,11 @@ main {
     max-width: 840px;
 }
 main img {
-    width: 15px;
+    width: 150px;
     height: auto;
+}
+nav {
+    max-width: 750px;
 }
 nav a {
     color: white;
