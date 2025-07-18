@@ -3,8 +3,8 @@
     --secondary-color: #3BA7D5;
     --accent-color: #E39318;
     --accent2-color: #B9B9C2;
-    --heading-font: "PT Sans", sans;
-    --body-font: "Merriweather", sarif;
+    --heading-font: "PT Sans";
+    --body-font: "Merriweather";
 }
 header {
     background-color: var(--primary-color);
